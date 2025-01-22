@@ -68,7 +68,8 @@ You can host the project locally or use GitHub Pages for a live demo.
 ---
 
 ## Screenshots
-![Screenshot of Login Page](https://via.placeholder.com/800x400?text=Login+Page+Screenshot)
+![image](https://github.com/user-attachments/assets/8cc60609-3dff-42c1-aead-0524eb04999d)
+
 
 ---
 
